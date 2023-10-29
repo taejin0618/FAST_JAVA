@@ -1,0 +1,22 @@
+
+p
+java:S1192"UDefine a constant instead of duplicating this literal "ì»¤í”¼ ì£¼ë¬¸ ì™„ë£Œ" 3 times.(¬î±Šùÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³õh
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö×Ôş
+R
+java:S2589"7Remove this expression which always evaluates to "true"(Á«õ²ûÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(­ –®
+E	java:S106	"+Replace this use of System.out by a logger.(õæ–äşÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(ï½ÍÆúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¬î±Šùÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(Á«õ²ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ßóë‹
+E	java:S106"+Replace this use of System.out by a logger.(¬î±Šùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÅªäŞ
+=
+java:S1125"'Remove the unnecessary boolean literal.(­ –®
+@	java:S106"+Replace this use of System.out by a logger.(°²Æ…
+E	java:S106"+Replace this use of System.out by a logger.(¬î±Šùÿÿÿÿ
