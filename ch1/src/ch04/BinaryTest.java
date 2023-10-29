@@ -13,5 +13,5 @@ public class BinaryTest {
         System.out.println(bNum);
         System.out.println(oNum);
         System.out.println(xNum);
-    }
+    }// 주석 입니다
 }
