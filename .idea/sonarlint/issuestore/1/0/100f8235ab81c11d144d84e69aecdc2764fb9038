@@ -1,9 +1,0 @@
-
-q
-java:S1104"UMake studentID a static final constant or non-public and provide accessors if needed.(¾ô–O8Îœßşµ1
-y
-java:S1104"WMake studentName a static final constant or non-public and provide accessors if needed.(´Ó«ûÿÿÿÿ8Îœßşµ1
-u
-java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8Îœßşµ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬„Ñöüÿÿÿÿ8Ïœßşµ1
-G	java:S106"+Replace this use of System.out by a logger.(û»˜È8Ôœßşµ1

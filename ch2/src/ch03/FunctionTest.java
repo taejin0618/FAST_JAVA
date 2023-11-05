@@ -6,8 +6,9 @@ public class FunctionTest {
 		int result;
 		result = num1 + num2;
 		return result;
+
 	}
-	
+
 	public static void sayHello(String greeting) {
 		System.out.println(greeting);
 	}
@@ -30,11 +31,13 @@ public class FunctionTest {
 		int n2 = 20;
 		
 		int total = addNum(n1, n2);
+
+		System.out.println("-------출력-----------");
+		sayHello("안녕하세요"); // sayHello 함수 출력
+
+		int sum = calcSum();
 		
-		sayHello("안녕하세요");
-		int num = calcSum();
-		
-		System.out.println(total);
-		System.out.println(num);
+		System.out.println(total); // total 함수 출력
+		System.out.println(sum); // num 함수 출력
 	}
 }
