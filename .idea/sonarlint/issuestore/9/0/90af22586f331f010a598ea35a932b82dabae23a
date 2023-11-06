@@ -1,0 +1,24 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôðôöùÿÿÿÿ
+i	java:S116"ORename this field "SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•êÒÒýÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Ñåô°ùÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(‰Âö~
+>
+java:S1659 "#Declare "child" on a separate line.(ù¹»Áýÿÿÿÿ
+8
+java:S1659!""Declare "temp" on a separate line.(º­¿ô
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ü›ú 
+Q	java:S125-"<This block of commented-out lines of code should be removed.(ÀðÌ
+l
+java:S3457:"Q%n should be used in place of \n to produce the platform-specific line separator.(§‰ûÿÿÿÿ
+@
+java:S3457:"%String contains no format specifiers.(§‰ûÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(§‰ûÿÿÿÿ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(õ»àõ
+E	java:S106<"+Replace this use of System.out by a logger.(øÏ°ùÿÿÿÿ
+8
+java:S1659I""Declare "data" on a separate line.(ì¯€›
+l
+java:S3457M"Q%n should be used in place of \n to produce the platform-specific line separator.(ßóë©þÿÿÿÿ
+E	java:S106M"+Replace this use of System.out by a logger.(ßóë©þÿÿÿÿ

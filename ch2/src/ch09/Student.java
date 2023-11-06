@@ -10,7 +10,7 @@ public class Student {
 	
 	public Student(int id, String name) {
 		studentID = id;
-		studentName = name;
+		studen tName = name;
 		
 		korea = new Subject();
 		math = new Subject();

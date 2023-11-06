@@ -1,0 +1,16 @@
+
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú™½ù
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å‹ˆÖ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(êÄÄó
+‹
+java:S1319!"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–¿…ğıÿÿÿÿ
+†
+java:S1319%"kThe type of "subjectList" should be an interface such as "List" rather than the implementation "ArrayList".(Ï¯Ó´ùÿÿÿÿ
+q
+java:S3008	"VRename this field "SCHOOL_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„µşÿÿÿÿ
+J
+java:S1068	"/Remove this unused "SCHOOL_NAME" private field.(„µşÿÿÿÿ

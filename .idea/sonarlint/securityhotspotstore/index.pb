@@ -67,11 +67,27 @@ I
 ch2/src/ch04/Student.java,4\f\4ff8d451410f4fbcdf1feaf0ccacec5b6a2581ed
 M
 ch2/src/ch06/StudentTest.java,3\3\334ec54338d4e0bee8a6f26f1f3bef096f99cf87
-L
-ch2/src/ch06/Student_Ex.java,8\0\808cbbb9c6379990653430970a70ced577aff30e
-P
- ch2/src/ch06/StudentTest_Ex.java,4\6\46a3d5e2d30b11adeabb5f704e939c2468ae15a4
 J
 ch2/src/ch07/UserInfo.java,3\6\36ff34b9627428d484123d24ae826fa0b22df93b
 N
 ch2/src/ch07/UserInfoTest.java,f\3\f3c65b275cda98abd1bd4190aa48716c597073c4
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+H
+ch2/src/ch08/Person.java,7\b\7be8d62ddffbd9a51d546043d5d932c7c06722ec
+K
+ch2/src/ch08/OrderTest.java,1\e\1ef86c6eb4f223f455fc1ad8e4d1a212aeaaf787
+G
+ch2/src/ch08/Order.java,c\6\c6d53c4278fa5e96dd4259c364402e59e354886f
+I
+ch2/src/ch09/Subject.java,2\b\2bbfc412d04f4ca3a441c80fe2b03d96cfbc7d78
+M
+ch2/src/ch09/StudentTest.java,8\9\89d4237269a22e1c0aedfe5406addc2d23cf10e0
+`
+0untitled/src/main/groovy/org/example/Main.groovy,a\1\a125160bc2357e4e11cc534e6bd7b91770e30687
+E
+untitled/build.gradle,c\7\c739afdd62948e828fcb6635cb020d4ae64cb5c6
+I
+ch2/src/ch09/Student.java,f\8\f88727e030c4e611ac51a9fbb63d41f8980ee1a9
