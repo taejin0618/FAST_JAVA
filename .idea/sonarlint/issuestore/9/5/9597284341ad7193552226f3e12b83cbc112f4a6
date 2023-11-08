@@ -1,6 +1,8 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôğôöùÿÿÿÿ8¤îìô·1
-G	java:S106"+Replace this use of System.out by a logger.(ò°ÿº8¶îìô·1
-G	java:S106#"+Replace this use of System.out by a logger.(â¥®ã8ºîìô·1
-L	java:S106("+Replace this use of System.out by a logger.(°Û×ºüÿÿÿÿ8»îìô·1
-L	java:S106)"+Replace this use of System.out by a logger.(ğÉ¦ûùÿÿÿÿ8¢œ–õ·1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôğôöùÿÿÿÿ8ÃŒèº1
+G	java:S106"+Replace this use of System.out by a logger.(ò°ÿº8¡ÃŒèº1
+G	java:S106$"+Replace this use of System.out by a logger.(â¥®ã8§ÃŒèº1
+L	java:S106)"+Replace this use of System.out by a logger.(°Û×ºüÿÿÿÿ8ªÃŒèº1
+L	java:S106*"+Replace this use of System.out by a logger.(ğÉ¦ûùÿÿÿÿ8«ÃŒèº1
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8«ÃŒèº1
