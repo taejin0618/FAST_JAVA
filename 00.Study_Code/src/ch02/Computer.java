@@ -9,7 +9,7 @@ public class Computer {
 
     String power;
     public void show(){
-        System.out.println(keyborad);
+        System.out.println(keyborad + mouse);
     }
 
 }
