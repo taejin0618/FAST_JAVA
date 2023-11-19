@@ -1,2 +1,5 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤×ˆùÿÿÿÿ
+p
+java:S1104"TMake keyborad a static final constant or non-public and provide accessors if needed.(ì½®8ÚÑ’¼1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤×ˆùÿÿÿÿ8ÚÑ’¼1
+G	java:S106"+Replace this use of System.out by a logger.(×İíÑ8ÚÑ’¼1

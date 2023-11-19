@@ -1,9 +1,15 @@
 package ch02;
 
+
+
 public class Computer {
-    String keyborad;
+    public String keyborad;
     String mouse;
     String monitor;
 
     String power;
+    public void show(){
+        System.out.println(keyborad);
+    }
+
 }

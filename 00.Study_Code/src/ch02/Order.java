@@ -3,17 +3,14 @@ package ch02;
 
 public class Order {
 
-    int orderId;
+    public int orderId;
     String buyerId;
     String sellerId;
     int productId;
     String orderDate;
 
-    int add(int num1, int num2) {
-
-        int result;
-        result = num1 + num2;
-        return result;
+    public void show() {
+        System.out.println(orderId + "는" + buyerId + "입니다");
     }
 }
 

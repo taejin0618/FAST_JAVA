@@ -16,5 +16,6 @@ public class DowhileTest {
         }while(input != 0);
 
         System.out.println(sum);
+
     }
 }

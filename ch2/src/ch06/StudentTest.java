@@ -10,6 +10,10 @@ public class StudentTest {
 
 		String data = studentLee.showStudentInfo();
 		System.out.println(data);
+
+		Student studentKim = new Student(141, "KIM", 1);
+		String data1  = studentKim.showStudentInfo();
+		System.out.println(data1);
 	}
 
 }

@@ -14,6 +14,8 @@ public class FunctionTest {
         System.out.println(greeting);
     }
 
+
+
     public static int calcSum() {
 
         int sum = 0;

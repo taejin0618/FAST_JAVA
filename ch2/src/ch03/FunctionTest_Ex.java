@@ -7,6 +7,8 @@ public class FunctionTest_Ex {
         int result;
         result = num1 + num2;
         return result;
+
+
     }
 
     public static void sayHollo(String greeting) {

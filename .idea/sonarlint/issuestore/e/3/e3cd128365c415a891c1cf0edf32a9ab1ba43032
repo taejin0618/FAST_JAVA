@@ -1,3 +1,12 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤üÈáÿÿÿÿÿ8›Üï•º1
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤×ˆùÿÿÿÿ
+o
+java:S1104"RMake userId a static final constant or non-public and provide accessors if needed.(ˆÀÕô8ååë¼1
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ååë¼1
+u
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8ååë¼1
+u
+java:S1104"YMake addressNumber a static final constant or non-public and provide accessors if needed.(‡†È+8ååë¼1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤üÈáÿÿÿÿÿ8ååë¼1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤×ˆùÿÿÿÿ8ååë¼1
+L	java:S106	"+Replace this use of System.out by a logger.(ÖËÉãüÿÿÿÿ8Ÿååë¼1
