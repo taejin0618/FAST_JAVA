@@ -239,3 +239,7 @@ M
 ch1/src/ch18/DowhileTest.java,c\9\c9db84bd128ff33312a728f68ec760b259c45f30
 U
 %00.Study_Code/src/ch02/OrderTest.java,1\1\119ebaea3ae66f748295215cdd4434ad1a7cc5bf
+L
+ch2/src/ch06/Student_01.java,2\7\27491ef2ceefb969ffc849ee2d9ae80fb7f1a398
+P
+ ch2/src/ch06/Student_01Test.java,e\7\e724df1638930843f6fcfb99590e5bddb95aac63
