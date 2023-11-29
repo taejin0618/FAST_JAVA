@@ -7,6 +7,8 @@ public class Student_01 {
     public String studentName;
     public int grade;
 
+    public int studentNamering;
+
     public Student_01(){}
     public Student_01(int studentNumber, String studentName, int grade) {
         this.studentNumber = studentNumber;
