@@ -1,0 +1,7 @@
+
+i
+java:S1104"NMake ch a static final constant or non-public and provide accessors if needed.(Œ“Ÿéıÿÿÿÿ
+i
+java:S1104"NMake vo a static final constant or non-public and provide accessors if needed.(Õäÿâøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤×ˆùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(å¦ÃŠøÿÿÿÿ
