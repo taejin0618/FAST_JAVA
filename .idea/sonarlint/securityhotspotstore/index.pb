@@ -243,3 +243,13 @@ L
 ch2/src/ch06/Student_01.java,2\7\27491ef2ceefb969ffc849ee2d9ae80fb7f1a398
 P
  ch2/src/ch06/Student_01Test.java,e\7\e724df1638930843f6fcfb99590e5bddb95aac63
+Å
+Q.idea/sonarlint/securityhotspotstore/e/7/e724df1638930843f6fcfb99590e5bddb95aac63,3\c\3c66b4bb5cec72afafbe5dd3ffb38a3d011d279f
+Å
+Q.idea/sonarlint/securityhotspotstore/0/d/0dbe75d07a8edf9c068f863e7fc97a0158e43722,4\9\4976a578d26df8228ec2009804e2efc37a4f8662
+Å
+Q.idea/sonarlint/securityhotspotstore/2/7/27491ef2ceefb969ffc849ee2d9ae80fb7f1a398,8\b\8b6a0a206af74170b85c6d363cb334f30f96c6d1
+Å
+Q.idea/sonarlint/securityhotspotstore/7/b/7b5977255c5154ea0a25e78e58cd52ef1d7ccda0,3\1\31e5198b6e006da05036e04ec78327a45e0287c4
+Å
+Q.idea/sonarlint/securityhotspotstore/b/a/babd8b057a6316dd75dd70dd4665f59522f0d796,d\0\d0a36f5194996b99ac784115d8208a539cd85c85
