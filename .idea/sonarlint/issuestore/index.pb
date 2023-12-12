@@ -239,10 +239,6 @@ M
 ch1/src/ch18/DowhileTest.java,c\9\c9db84bd128ff33312a728f68ec760b259c45f30
 U
 %00.Study_Code/src/ch02/OrderTest.java,1\1\119ebaea3ae66f748295215cdd4434ad1a7cc5bf
-L
-ch2/src/ch06/Student_01.java,2\7\27491ef2ceefb969ffc849ee2d9ae80fb7f1a398
-P
- ch2/src/ch06/Student_01Test.java,e\7\e724df1638930843f6fcfb99590e5bddb95aac63
 Å
 Q.idea/sonarlint/securityhotspotstore/e/7/e724df1638930843f6fcfb99590e5bddb95aac63,3\c\3c66b4bb5cec72afafbe5dd3ffb38a3d011d279f
 Å
@@ -253,3 +249,17 @@ Q.idea/sonarlint/securityhotspotstore/2/7/27491ef2ceefb969ffc849ee2d9ae80fb7f1a3
 Q.idea/sonarlint/securityhotspotstore/7/b/7b5977255c5154ea0a25e78e58cd52ef1d7ccda0,3\1\31e5198b6e006da05036e04ec78327a45e0287c4
 Å
 Q.idea/sonarlint/securityhotspotstore/b/a/babd8b057a6316dd75dd70dd4665f59522f0d796,d\0\d0a36f5194996b99ac784115d8208a539cd85c85
+O
+ch2/src/ch23/ArrayListTest.java,b\6\b67c0ec1dea9ece53ed516bd3f13484a451337c1
+I
+ch2/src/ch24/Student.java,8\f\8fea3fd1a1704ac9bf434887f79d5e052a6abae2
+M
+ch2/src/ch24/StudentTest.java,0\5\059c0033b4f83a4ddaeedbe0f2d7ecf35e9af1af
+J
+ch2/src/ch08/Order_ex.java,b\e\be1f36760299bc0ab91c06aef6e2736df6795887
+O
+ch2/src/ch08/Order_ex_Test.java,f\5\f5edb3a6b139ebf9755ab623db6473ed30b60398
+F
+ch2/src/ch06/test.java,f\3\f356f08ac2b8bbcc268a1c7555893ceacaa879a3
+J
+ch2/src/ch06/TestCode.java,3\3\3303246d634f32072a878440e768569592b071db
