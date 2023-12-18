@@ -10,7 +10,7 @@ public class UserInfoTest {
 		userLee.userName = "Lee";
 		userLee.phoneNumber = "01034556699";
 		userLee.userAddress = "Seoul, Korea";
-		
+//		userLee.showUserInfo();
 		System.out.println(userLee.showUserInfo());
 		
 		UserInfo userKim = new UserInfo("b12345", "09876mnbvc", "Kim");
