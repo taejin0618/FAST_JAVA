@@ -15,6 +15,6 @@ public class test {
 
     public String showStudentInfot() {
 
-        return studentName + "학생의 학번은 " + studentNumber + "이고 " + grade + "학년 입니다.";
+        return studentName + "학생의 학번은" + studentNumber + "이고 " + grade + "학년 입니다.";
     }
 }
