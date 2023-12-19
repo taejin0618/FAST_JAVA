@@ -67,10 +67,6 @@ I
 ch2/src/ch04/Student.java,4\f\4ff8d451410f4fbcdf1feaf0ccacec5b6a2581ed
 M
 ch2/src/ch06/StudentTest.java,3\3\334ec54338d4e0bee8a6f26f1f3bef096f99cf87
-J
-ch2/src/ch07/UserInfo.java,3\6\36ff34b9627428d484123d24ae826fa0b22df93b
-N
-ch2/src/ch07/UserInfoTest.java,f\3\f3c65b275cda98abd1bd4190aa48716c597073c4
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 S
@@ -259,3 +255,11 @@ F
 ch2/src/ch06/test.java,f\3\f356f08ac2b8bbcc268a1c7555893ceacaa879a3
 J
 ch2/src/ch06/TestCode.java,3\3\3303246d634f32072a878440e768569592b071db
+F
+ch2/src/ch09/test.java,8\1\8119951aab7d06740ed21940ce42cd0a248ef2b0
+M
+ch2/src/ch09/TestSubject.java,c\6\c61926e3b29bad77bd5095cd30603ae80dacefd4
+M
+ch2/src/ch09/TestStudent.java,c\f\cf4153763954ee45d99b43134877a844ec9b3984
+I
+ch2/src/ch09/TestSub.java,0\9\09ff89a837597d834920959effcea7faf8379ea5

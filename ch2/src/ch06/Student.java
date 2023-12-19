@@ -1,10 +1,9 @@
 package ch06;
 
 public class Student {
-
-	public int studentNumber;
-	public String studentName;
-	public int grade;
+	int studentNumber;
+	String studentName;
+	int grade;
 
 	public Student(int studentNumber, String studentName, int grade) {
 		this.studentNumber = studentNumber;
