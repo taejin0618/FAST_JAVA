@@ -255,3 +255,15 @@ M
 ch2/src/ch09/TestStudent.java,c\f\cf4153763954ee45d99b43134877a844ec9b3984
 I
 ch2/src/ch09/TestSub.java,0\9\09ff89a837597d834920959effcea7faf8379ea5
+M
+ch1/src/ch09/BooleanTest.java,a\0\a093d114cb669f4b9015b24fbef7387fe920ceca
+N
+ch2/src/ch10/TestBirthDay.java,2\2\22faffedf9606420b1ddbeb179a5512bae54b4ab
+J
+ch2/src/ch10/BirthDay.java,d\5\d51891f30f4bae2eb12465476045809e0c12e1eb
+R
+"ch2/src/ch10/TestBirthDayTest.java,c\6\c6a7300840a403f1cd00674ef9a87ad7e705d02b
+N
+ch2/src/ch10/BirthDayTest.java,f\5\f5b2115f10a66e057136e63e33926f809626691f
+P
+ ch2/src/ch11/TestMakeReport.java,5\6\569c38227f96084c24077b8e0b3d6b4e7c56dae7

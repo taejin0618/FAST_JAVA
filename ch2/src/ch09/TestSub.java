@@ -14,5 +14,6 @@ public class TestSub {
 
         studentlee.showScoreInof(); // Lee의 총점 출력
         studentkim.showScoreInof(); // Kim의 총점 출력
+
     }
 }
