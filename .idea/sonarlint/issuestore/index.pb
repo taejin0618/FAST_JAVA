@@ -267,3 +267,17 @@ N
 ch2/src/ch10/BirthDayTest.java,f\5\f5b2115f10a66e057136e63e33926f809626691f
 P
  ch2/src/ch11/TestMakeReport.java,5\6\569c38227f96084c24077b8e0b3d6b4e7c56dae7
+R
+"00.Study_Code/src/ch04/SamDal.java,0\0\0032ffdf4940ca4e18ff36e53e31e14a80d139cb
+V
+&00.Study_Code/src/ch04/TestSamdla.java,5\7\57b0f0fd5c41cff5828744fb549ada296f96eebd
+L
+ch2/src/ch11/MakeReport.java,c\2\c2a8cf74c101a49d89e30044afccb5c49876151b
+K
+ch2/src/ch11/TestReprt.java,7\8\78de2ffd914309b1128b36209db05b7abef6330b
+H
+ch2/src/ch12/Person.java,9\1\9148e701eb94d44b30b28f204288703f3175130f
+L
+ch2/src/ch12/TestPerson.java,1\0\10d154be4e04fafa4776d5503888fc4348cb5498
+O
+ch8/src/ch01/MinMaxProblem.java,7\6\76296b5e8a9a6523f045c16ab799133f172a9e07
