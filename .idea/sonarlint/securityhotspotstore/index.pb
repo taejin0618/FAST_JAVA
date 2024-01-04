@@ -281,3 +281,21 @@ L
 ch2/src/ch12/TestPerson.java,1\0\10d154be4e04fafa4776d5503888fc4348cb5498
 O
 ch8/src/ch01/MinMaxProblem.java,7\6\76296b5e8a9a6523f045c16ab799133f172a9e07
+I
+ch2/src/ch14/TestBus.java,f\7\f7c0323c44b5829ada61a3645a9a2d72ba732d83
+M
+ch2/src/ch14/TestStudent.java,5\a\5a118f28305c6364f805b5766075409f34b98e72
+I
+ch2/src/ch14/Student.java,3\2\329b2ea35b588cc679214c2a62c1942eed04ad85
+E
+ch2/src/ch14/Bus.java,e\e\ee1098db8a3ba666cabe25907bdd294ef562d117
+L
+ch2/src/ch14/TestSubway.java,7\6\7616c1fe6e19851be8bf2899e96cf0cbb95836d1
+H
+ch2/src/ch14/Subway.java,0\a\0a13f8b9c702e4d2ca9dc2e0663e230f408f678f
+S
+#ch2/src/ch14/TestTakeTransTest.java,d\f\dfae82342e6d473f931a072dcf0b6ddf2c231883
+O
+ch2/src/ch14/TakeTransTest.java,f\f\ff86191987d9d2b87336efd77c8eedaa2bbc5a93
+I
+ch2/src/ch15/Student.java,c\0\c0c594cc8284a96476bfbe18a4272ec8efea279c
