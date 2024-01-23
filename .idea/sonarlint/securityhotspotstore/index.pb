@@ -307,3 +307,23 @@ N
 ch2/src/ch16/TestEmployee.java,e\c\ec9e81c5713b89e9d45227830443e13b8f3b8344
 P
  ch2/src/ch16/TestEmployee_1.java,9\4\94b3a5bc1aec0ac10a0e81cee839199f5de56597
+I
+ch2/src/ch18/Company.java,c\c\ccfb9c29b0ba1569de34b87dace52ca2dbc155b5
+M
+ch2/src/ch18/CompanyTest.java,2\7\27a8a9df685508e1dd37f0f582daaeddafabc970
+E
+ch2/src/ch19/Car.java,0\1\011fabc3292d6848af2424ab13d35a3e7e66a719
+L
+ch2/src/ch19/CarFactory.java,3\d\3d2332cdca475f99bf9d8e7a79c68e141d7179a6
+J
+ch2/src/ch17/Employee.java,f\9\f90d99253819906fd3caf92b68b99dc6698a524c
+P
+ ch2/src/ch19/CarFactoryTest.java,d\6\d6631c7407978ea19c00743a767ca283d1e7f2be
+K
+ch2/src/ch20/ArrayTest.java,9\4\947dd7bfb0f59ca56ab28dd90f5ead0d8551d7b9
+F
+ch2/src/ch21/Book.java,7\d\7dd66ab3a4c899411278737a173b582d400b2969
+J
+ch2/src/ch21/BookTest.java,a\6\a6e3ada23abfb6b6b76d64282ea19da3679f964c
+P
+ ch2/src/ch21/ObjectCopytest.java,9\b\9b40bbbccd4c7bf3097d11af59bba05e2c177028

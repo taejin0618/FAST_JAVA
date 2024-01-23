@@ -1,17 +1,14 @@
 package ch21;
 
 public class Book {
-
-	private String title;
+	private	String title;
 	private String author;
-	
-	public Book() {}
-	
-	public Book(String title, String author) {
+
+	public Book(){}
+	public Book(String title, String author){
 		this.title = title;
 		this.author = author;
 	}
-
 	public String getTitle() {
 		return title;
 	}
@@ -27,8 +24,8 @@ public class Book {
 	public void setAuthor(String author) {
 		this.author = author;
 	}
-	
-	public void showBookInfo() {
-		System.out.println(title + "," +author);
+
+	public void showInfo(){
+		System.out.println(title + "," + author);
 	}
 }
