@@ -281,3 +281,21 @@ L
 ch2/src/ch12/TestPerson.java,1\0\10d154be4e04fafa4776d5503888fc4348cb5498
 O
 ch8/src/ch01/MinMaxProblem.java,7\6\76296b5e8a9a6523f045c16ab799133f172a9e07
+K
+ch2/src/ch20/ArrayTest.java,9\4\947dd7bfb0f59ca56ab28dd90f5ead0d8551d7b9
+K
+ch2/src/ch20/TestArray.java,9\a\9a0752419541f1dfd952b6b59b0c90ccc9125acc
+E
+ch2/src/ch19/Car.java,0\1\011fabc3292d6848af2424ab13d35a3e7e66a719
+O
+ch2/src/ch20/CharArrayTest.java,8\d\8dcac66cbc3617a4881d87b6d300c278782d83b5
+O
+ch2/src/ch20/TestCharArray.java,a\7\a7c0eead62b141ab69c5f66d02904dd7fb9eb07a
+F
+ch2/src/ch21/Book.java,7\d\7dd66ab3a4c899411278737a173b582d400b2969
+O
+ch2/src/ch21/BookArrayTest.java,8\d\8d588a0b42dd1988ced731b5800a3cb24d5e26e5
+L
+ch2/src/ch21/ObjectCopy.java,2\7\27ebda23fc3762d9079d83bab4aa56f7188b0c27
+R
+"ch2/src/ch22/TwoDimensionTest.java,1\5\154fcf9919e84aa672dfcc3db2fc2bf30e973a4d
