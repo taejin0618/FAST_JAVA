@@ -15,7 +15,7 @@ public class BookTest {
 
         for (Book book : library) {
             System.out.println(book);
-            book.showInfo();
+            book.showBookInfo();
         }
     }
 }

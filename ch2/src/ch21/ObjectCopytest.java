@@ -30,13 +30,13 @@ public class ObjectCopytest {
         System.out.println("== library ==");
         for (Book book : library) {
             System.out.println(book);
-            book.showInfo();
+            book.showBookInfo();
         }
 
         System.out.println("== copy library ==");
         for (Book book : copyLibary) {
             System.out.println(book);
-            book.showInfo();
+            book.showBookInfo();
         }
 
     }
