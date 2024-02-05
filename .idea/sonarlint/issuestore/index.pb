@@ -1,6 +1,4 @@
 
-A
-ch2/src/Main.java,7\b\7b31ea3eaadab76ced1c7575d4e68c73dcc62eb7
 K
 ch1/src/ch21/BreakTest.java,7\a\7ae03a3693901912544837d8f58b16ad72feb3da
 G
@@ -315,3 +313,7 @@ I
 ch2/src/ch24/Subject.java,e\3\e37f2bd34e9521a6fbb92eca6adca7859370cf9c
 N
 ch3/src/ch02/CustomerTest.java,f\9\f9b96e46702c2b1219ab2fc802c4b66d88d68850
+D
+ch2/src/ch01/Tv.java,2\8\28b8f7006ecca1897002e1e4cdf846f165504a21
+H
+ch2/src/ch01/TvTest.java,1\b\1b92a4f5efd7f28956f174255c1cffb63f4d8a76

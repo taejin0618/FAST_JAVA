@@ -1,10 +1,9 @@
 
 q
-java:S1104"UMake studentID a static final constant or non-public and provide accessors if needed.(¾ô–O8©®Ö¾1
-r
-java:S1104"WMake studentName a static final constant or non-public and provide accessors if needed.(´Ó«ûÿÿÿÿ
-n
-java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬„Ñöüÿÿÿÿ
-E	java:S106
-"+Replace this use of System.out by a logger.(‰Æš‘øÿÿÿÿ
+java:S1104"UMake studentID a static final constant or non-public and provide accessors if needed.(¾ô–O8¨É×1
+y
+java:S1104"WMake studentName a static final constant or non-public and provide accessors if needed.(´Ó«ûÿÿÿÿ8©É×1
+u
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8©É×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬„Ñöüÿÿÿÿ8ªÉ×1
+L	java:S106"+Replace this use of System.out by a logger.(‰Æš‘øÿÿÿÿ8µÉ×1
